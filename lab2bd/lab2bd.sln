@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2bd", "lab2bd.csproj", "{FCD09EC5-A928-462C-8D78-98A5F95CC715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD09EC5-A928-462C-8D78-98A5F95CC715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD09EC5-A928-462C-8D78-98A5F95CC715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD09EC5-A928-462C-8D78-98A5F95CC715}.Debug|x86.ActiveCfg = Debug|x86
+		{FCD09EC5-A928-462C-8D78-98A5F95CC715}.Debug|x86.Build.0 = Debug|x86
+		{FCD09EC5-A928-462C-8D78-98A5F95CC715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD09EC5-A928-462C-8D78-98A5F95CC715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD09EC5-A928-462C-8D78-98A5F95CC715}.Release|x86.ActiveCfg = Release|x86
+		{FCD09EC5-A928-462C-8D78-98A5F95CC715}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70B02912-847E-433A-85E6-BF27DCDB2891}
+	EndGlobalSection
+EndGlobal

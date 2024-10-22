@@ -1,0 +1,6 @@
+﻿22.10.2024 21:11:55 mybd.db create table myphoto (id INTEGER PRIMARY KEY NOT NULL,photos blob) Unable to open database file 
+22.10.2024 21:12:48 mybd.db create table myphoto (id INTEGER PRIMARY KEY NOT NULL,photos blob) Unable to open database file 
+22.10.2024 23:11:38 mybd.db create table Employee (id INTEGER PRIMARY KEY NOT NULL, lastname varchar2(256), name varchar2(256), birhtday Date, salary Double(2), active Boolean SQLite error
+incomplete input 
+22.10.2024 23:12:16 mybd.db create table Employee (id INTEGER PRIMARY KEY NOT NULL, lastname varchar2(256), name varchar2(256), birhtday Date, salary Double(2), active Boolean SQLite error
+incomplete input 

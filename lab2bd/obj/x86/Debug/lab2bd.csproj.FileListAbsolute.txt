@@ -1,0 +1,17 @@
+C:\Users\Matve\Desktop\database\lab2bd\bin\x86\Debug\lab2bd.exe.config
+C:\Users\Matve\Desktop\database\lab2bd\bin\x86\Debug\lab2bd.exe
+C:\Users\Matve\Desktop\database\lab2bd\bin\x86\Debug\lab2bd.pdb
+C:\Users\Matve\Desktop\database\lab2bd\obj\x86\Debug\lab2bd.csproj.AssemblyReference.cache
+C:\Users\Matve\Desktop\database\lab2bd\obj\x86\Debug\lab2bd.Form1.resources
+C:\Users\Matve\Desktop\database\lab2bd\obj\x86\Debug\lab2bd.Properties.Resources.resources
+C:\Users\Matve\Desktop\database\lab2bd\obj\x86\Debug\lab2bd.csproj.GenerateResource.cache
+C:\Users\Matve\Desktop\database\lab2bd\obj\x86\Debug\lab2bd.csproj.CoreCompileInputs.cache
+C:\Users\Matve\Desktop\database\lab2bd\obj\x86\Debug\lab2bd.exe
+C:\Users\Matve\Desktop\database\lab2bd\obj\x86\Debug\lab2bd.pdb
+C:\Users\Matve\Desktop\database\lab2bd\bin\x86\Debug\Devart.Data.dll
+C:\Users\Matve\Desktop\database\lab2bd\bin\x86\Debug\Devart.Data.SQLite.dll
+C:\Users\Matve\Desktop\database\lab2bd\bin\x86\Debug\ExceptionHandler.dll
+C:\Users\Matve\Desktop\database\lab2bd\bin\x86\Debug\Devart.Data.xml
+C:\Users\Matve\Desktop\database\lab2bd\bin\x86\Debug\Devart.Data.SQLite.xml
+C:\Users\Matve\Desktop\database\lab2bd\obj\x86\Debug\lab2bd.exe.licenses
+C:\Users\Matve\Desktop\database\lab2bd\obj\x86\Debug\lab2bd.csproj.CopyComplete
